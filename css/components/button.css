@@ -1,0 +1,28 @@
+.button{
+	background-color: rgb(200, 129, 71);
+	padding: 20px 50px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.button:hover{
+	background: white;
+	color: rgb(200, 129, 71);
+}
+
+.button-disco{
+	font-size: 10px;
+	background-color: rgb(28, 124, 184);
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.button-disco:hover{
+	background: white;
+	color: rgb(28, 124, 184);
+}
